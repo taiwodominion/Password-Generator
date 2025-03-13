@@ -11,6 +11,7 @@ Features
 Generate random  passwords
 Customize password length
 Include/exclude uppercase, lowercase, numbers, and symbols
+A recommended setting for the user
 Copy password to clipboard
 Responsive design
 
